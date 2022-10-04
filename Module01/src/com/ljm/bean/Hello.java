@@ -5,6 +5,7 @@ import java.util.ArrayList;
 /**
  * @author liujinman
  * @create 2022-10-03 15:03
+ * something new here
  */
 public class Hello {
     public static String str="asd";
